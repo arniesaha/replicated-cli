@@ -5,7 +5,7 @@ metadata:
 spec:
   chart:
     name: grafana
-    chartVersion: 5.0.13
+    chartVersion: 5.5.7
   values:
     adminUser: 'admin'
     adminPassword: 'admin'

@@ -1,0 +1,12 @@
+apiVersion: kots.io/v1beta1
+kind: HelmChart
+metadata:
+  name: grafana
+spec:
+  chart:
+    name: grafana
+    chartVersion: 5.0.13
+  values:
+    adminUser: 'admin'
+    adminPassword: 'admin'
+EOF

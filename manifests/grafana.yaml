@@ -9,4 +9,3 @@ spec:
   values:
     adminUser: 'admin'
     adminPassword: 'admin'
-EOF
